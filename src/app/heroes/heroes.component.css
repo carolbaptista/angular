@@ -1,0 +1,10 @@
+.list-heroes li:hover{
+font-weight: bold;
+background-color: darkred;
+color: aliceblue;
+}
+
+.selected{
+    background-color:rgb(50, 126, 91) !important;
+    color: aliceblue;
+}
